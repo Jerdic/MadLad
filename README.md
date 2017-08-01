@@ -1,0 +1,2 @@
+# MadLad
+A Discord bot.
